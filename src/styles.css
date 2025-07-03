@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+  font-family: 'Segoe UI', sans-serif;
+  transition: background-color 0.5s, color 0.5s;
+  background: url('../public/assets/background.png') no-repeat center center fixed;
+  background-size: cover;
+}
+.app-wrapper {
+  backdrop-filter: blur(8px);
+  min-height: 100vh;
+}
+.light-mode {
+  color: #000;
+  background-color: rgba(255, 255, 255, 0.8);
+}
+.dark-mode {
+  color: #fff;
+  background-color: rgba(0, 0, 0, 0.7);
+}
+.logo {
+  width: 100px;
+  margin: 1rem auto;
+  display: block;
+}
+footer {
+  text-align: center;
+  padding: 10px;
+  font-size: 14px;
+}
