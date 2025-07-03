@@ -1,4 +1,4 @@
-# 📝 React Task Manager with Theme Toggle and Custom Branding
+# 📝 React Task Manager
 
 A modern and lightweight task management web app built using **React** and styled with **Bootstrap 5**.
 The app lets users create, track, and manage daily tasks. It features a **light/dark mode toggle**, supports task completion toggling and deletion, and saves everything locally in the browser.
